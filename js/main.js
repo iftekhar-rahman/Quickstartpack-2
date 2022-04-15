@@ -26,9 +26,9 @@ for (let i = 0; i < list_items.length; i++) {
 			
 		}, 0);
 		// document.getElementById(id);
-		$('.list-item').each(function (i, item){
-			alert(item.id);
-		});
+		// $('.list-item').each(function (i, item){
+		// 	alert(item.id);
+		// });
 	});
 
 	for (let j = 0; j < lists.length; j++) {
